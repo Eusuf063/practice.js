@@ -1,0 +1,6 @@
+var a = parseInt(0);
+var b = parseInt(0);
+var c = parseInt(7);
+var d = parseInt(8);
+x = a*b-c*d;
+console.log("DIFERENCA = "+x)
