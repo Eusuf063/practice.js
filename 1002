@@ -1,0 +1,4 @@
+let pi = 3.14159;
+var R= `${""}`;
+display= "A= "+(pi*R*R).toFixed(4); 
+console.log(display);
