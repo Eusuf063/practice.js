@@ -1,0 +1,6 @@
+function myFunc(a,b){
+    return a*b;
+}
+var a=myFunc();
+display = "PROD = "+a;
+console.log(display)
